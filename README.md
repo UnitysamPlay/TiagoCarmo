@@ -113,9 +113,9 @@ Minha missão? Fundir tecnologia com visão de futuro e criar sistemas que **apr
 
 ### 📫 Contato
 
-- 📧 **Email:** [tiagotechn@gmail.com](mailto:tiagotechn@gmail.com)  
-- 📱 **WhatsApp:** [+55 11 99879-3957](https://wa.me/5511998793957)  
-- 🖥️ **Portfólio:** [github.com/tiagotechn](https://github.com/tiagotechn)
+- 📧 **Email:**  
+- 📱 **WhatsApp:** [ 
+- 🖥️ **Portfólio:** 
 
 ---
 
